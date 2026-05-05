@@ -10,7 +10,7 @@ Herramienta de linea de comandos que analiza archivos CSV y genera reportes auto
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/diegonub/reto-semana-05.git
+git clone https://github.com/DJ-Bus/reto-semana-05.git
 cd reto-semana-05
 ```
 
@@ -79,4 +79,4 @@ reto-semana-05/
 
 ## Autor
 
-Diego — ESCOM IPN, Programacion para Ciencia de Datos, 2026
+Diego Bustamante — ESCOM IPN, Programacion para Ciencia de Datos, 2026
