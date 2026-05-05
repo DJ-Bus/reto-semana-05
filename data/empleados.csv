@@ -1,0 +1,6 @@
+id,nombre,email,departamento,salario,activo
+1,Ana Garcia,ana@empresa.com,TI,45000.00,true
+2,Bob Lopez,,Ventas,38000.00,true
+3,Carlos Ruiz,carlos@empresa.com,TI,52000.00,false
+4,,diana@empresa.com,RRHH,41000.00,true
+5,Eva Torres,eva@empresa.com,,47000.00,true
